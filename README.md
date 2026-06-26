@@ -1,2 +1,2 @@
 # AutoMaster
-Ustaxonalar ro`yxati va ularda qanday servislar borligini ko`rsatib turuvchi loyiha.
+Ustaxonalar royxati va ularda qanday servislar borligini korsatib turuvchi loyiha.
